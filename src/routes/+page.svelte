@@ -1,7 +1,3 @@
-<script>
-	let isDarkTheme = false; // You can set this dynamically based on the device's theme
-</script>
-
 <style>
 	:root {
 		--background-color-light: rgb(255, 228, 182);
